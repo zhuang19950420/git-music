@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #  vue2-echo
 
 ![image](https://img.shields.io/badge/vue-2.6.10-blue.svg)
@@ -113,3 +114,7 @@ npm run build:report
 [MIT](https://github.com/uncleLian/vue2-echo/blob/master/LICENSE)
 
 Copyright (c) 2017-present，uncleLian
+=======
+# git-music
+git-music
+>>>>>>> 42b5b23646574124eb283911cd55b5a434e08eab
