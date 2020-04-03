@@ -4,7 +4,7 @@
             <mt-spinner type="triple-bounce" color="#6ed56c"></mt-spinner>
         </span>
         <span class="nothing" v-else-if="loading === 'nothing'">没有更多了T T~</span>
-        <span class="error" v-else-if="loading === 'error'">出错啦T T~</span>
+        <span class="error" v-else-if="loading === 'error'">出错啦T T~111</span>
     </div>
 </template>
 <script>
